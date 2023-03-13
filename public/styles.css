@@ -16,7 +16,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #0ba408;
+  background-color: #a604ae;
 }
 
 header h1 {
@@ -65,7 +65,7 @@ textarea:focus {
 button {
   cursor: pointer;
   font: inherit;
-  border: 1px solid #350035;
+  border: 1px solid #a604ae;
   background-color: #0ba408;
   color: white;
   padding: 0.5rem 1.5rem;
